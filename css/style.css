@@ -124,28 +124,28 @@ body a{
 	background:#e05d6f;
 	padding:5em 0;
 }
-span.glyphicon.glyphicon-time {
+span.glyphicon.glyphicon-pencil {
   font-size: 2em;
   color:  #fff;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
 }
-span.glyphicon.glyphicon-star {
+span.glyphicon.glyphicon-facetime-video {
   font-size: 2em;
   color:  #fff;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
 }
-span.glyphicon.glyphicon-bullhorn {
+span.glyphicon.glyphicon-hdd {
   font-size: 2em;
   color:  #fff;
   border-radius: 50px;
   border: 2px solid;
   padding: 1em;
 }
-span.glyphicon.glyphicon-eye-open {
+span.glyphicon.glyphicon-picture {
   font-size: 2em;
   color:  #fff;
   border-radius: 50px;
@@ -159,7 +159,7 @@ span.glyphicon.glyphicon-globe{
   border: 2px solid;
   padding: 1em;
 }
-span.glyphicon.glyphicon-wrench{
+span.glyphicon.glyphicon-cloud{
   font-size: 2em;
   color: #fff;
   border-radius: 50px;
